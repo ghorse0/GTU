@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"AbstractGraph"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"BreadthFirstSearch"},{"p":"<Unnamed>","l":"DijkstrasAlgorithm"},{"p":"<Unnamed>","l":"Edge"},{"p":"<Unnamed>","l":"Graph"},{"p":"<Unnamed>","l":"ListGraph"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"type"}];updateSearchResults();
